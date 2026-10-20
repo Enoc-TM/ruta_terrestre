@@ -1,0 +1,101 @@
+id_paquete,descripcion,tipo,peso_kg,largo_cm,ancho_cm,alto_cm,volumen_m3,direccion,barrio,latitud,longitud,prioridad
+PKG-001,Smartphone y Funda Protectora,caja_pequena,0.77,19.0,12.6,6.4,0.0015,Calle 100 #5-5,Chicó Norte / Usaquén,4.69722,-74.041366,normal
+PKG-002,Zapatos Deportivos y Ropa,caja_mediana,3.51,38.9,30.0,19.9,0.0232,Calle 13 #1-22,Puente Aranda / Zona Industrial,4.62839,-74.10877,normal
+PKG-003,Impresora Multifuncional WiFi,caja_mediana,6.7,49.7,37.4,22.7,0.0422,Av. La Esperanza #6-60,Salitre Oriental / Ciudad Salitre,4.647224,-74.093813,normal
+PKG-004,Vajilla Completa 24 Piezas Porcelana,caja_grande,15.31,58.3,46.2,43.6,0.1174,Calle 63 #85-31,Chapinero Alto,4.654434,-74.050909,alta
+PKG-005,Contrato Comercial y Póliza,sobre,0.46,30.7,22.3,3.5,0.0024,Carrera 7 #90-11,Centro Internacional / Santa Fe,4.608253,-74.069671,normal
+PKG-006,Auriculares Bluetooth Noise Cancelling,caja_pequena,1.01,20.8,16.9,12.0,0.0042,Calle 13 #99-9,Puente Aranda / Zona Industrial,4.6328,-74.106076,normal
+PKG-007,Tarjeta de Crédito y Token,sobre,0.11,15.3,14.6,1.6,0.0004,Calle 22 #51-60,Fontibón Centro,4.679358,-74.143621,normal
+PKG-008,Set de Cosméticos y Perfumería,caja_pequena,1.54,25.2,20.5,12.1,0.0063,Carrera 7 #66-65,Centro Internacional / Santa Fe,4.616671,-74.06957,normal
+PKG-009,Tarjeta de Crédito y Token,sobre,0.07,15.8,13.4,1.6,0.0003,Calle 63 #68-34,Chapinero Alto,4.649619,-74.053082,urgente
+PKG-010,Sobre Documentos Notariales,sobre,0.3,28.8,19.6,2.3,0.0013,Calle 63 #1-35,Chapinero Alto,4.642789,-74.056305,urgente
+PKG-011,Auriculares Bluetooth Noise Cancelling,caja_pequena,1.14,24.4,16.5,10.6,0.0043,Calle 13 #70-69,Puente Aranda / Zona Industrial,4.632179,-74.116179,alta
+PKG-012,Impresora Multifuncional WiFi,caja_mediana,6.09,49.4,41.2,28.7,0.0584,Av. Suba #11-64,Suba Pontevedra / La Colina,4.710763,-74.083262,alta
+PKG-013,Estufa de Gas 4 Puestos con Horno,electrodomestico,43.67,61.3,61.8,92.1,0.3489,Calle 45 #70-27,Teusaquillo / Galerías,4.651811,-74.076537,normal
+PKG-014,Vajilla Completa 24 Piezas Porcelana,caja_grande,14.63,55.2,41.2,37.2,0.0846,Calle 22 #76-30,Fontibón Centro,4.671762,-74.132351,normal
+PKG-015,Tarjeta de Crédito y Token,sobre,0.06,15.2,11.7,1.5,0.0003,Carrera 7 #17-75,Centro Internacional / Santa Fe,4.61057,-74.067719,normal
+PKG-016,Zapatos Deportivos y Ropa,caja_mediana,4.02,36.3,25.7,18.0,0.0168,Av. Suba #87-14,Suba Pontevedra / La Colina,4.714825,-74.070989,normal
+PKG-017,Impresora Multifuncional WiFi,caja_mediana,7.12,43.5,38.1,25.4,0.0421,Calle 63 #57-72,Chapinero Alto,4.646964,-74.060004,normal
+PKG-018,Estufa de Gas 4 Puestos con Horno,electrodomestico,54.6,64.5,63.9,91.3,0.3763,Calle 100 #8-23,Chicó Norte / Usaquén,4.689569,-74.049656,normal
+PKG-019,Vajilla Completa 24 Piezas Porcelana,caja_grande,17.56,57.9,42.9,42.0,0.1043,Av. La Esperanza #20-26,Salitre Oriental / Ciudad Salitre,4.661802,-74.095416,normal
+PKG-020,Tarjeta de Crédito y Token,sobre,0.16,15.3,11.6,1.1,0.0002,Av. Primero de Mayo #21-9,Kennedy Central / Timiza,4.61335,-74.132418,urgente
+PKG-021,Contrato Comercial y Póliza,sobre,0.22,28.5,24.3,2.2,0.0015,Calle 45 #80-12,Teusaquillo / Galerías,4.65354,-74.073606,normal
+PKG-022,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,35.35,157.0,23.7,97.4,0.3624,Calle 22 #59-42,Fontibón Centro,4.672916,-74.129849,alta
+PKG-023,Contrato Comercial y Póliza,sobre,0.34,35.0,25.0,1.2,0.001,Calle 100 #9-33,Chicó Norte / Usaquén,4.681395,-74.04837,normal
+PKG-024,Auriculares Bluetooth Noise Cancelling,caja_pequena,1.08,23.5,18.1,11.9,0.0051,Av. Suba #85-15,Suba Pontevedra / La Colina,4.722889,-74.084765,alta
+PKG-025,Set de Cosméticos y Perfumería,caja_pequena,0.92,22.6,19.3,11.4,0.005,Av. La Esperanza #88-35,Salitre Oriental / Ciudad Salitre,4.658911,-74.09706,normal
+PKG-026,Freidora de Aire Digital 5L,caja_mediana,4.78,35.4,32.2,32.0,0.0365,Calle 100 #21-58,Chicó Norte / Usaquén,4.698134,-74.039072,normal
+PKG-027,Juego de Herramientas Eléctricas,caja_grande,14.1,55.8,46.8,39.0,0.1018,Calle 13 #56-18,Puente Aranda / Zona Industrial,4.630912,-74.099135,normal
+PKG-028,Monitor Gamer Curvo 34 Pulgadas,caja_grande,14.39,87.1,24.0,48.8,0.102,Calle 100 #80-21,Chicó Norte / Usaquén,4.698403,-74.032897,alta
+PKG-029,Zapatos Deportivos y Ropa,caja_mediana,4.44,40.7,31.2,15.2,0.0193,Calle 45 #86-33,Teusaquillo / Galerías,4.648414,-74.078356,normal
+PKG-030,Smartphone y Funda Protectora,caja_pequena,0.84,21.4,12.9,9.3,0.0026,Calle 72 #29-5,Engativá / Álamos,4.703809,-74.125844,normal
+PKG-031,Vajilla Completa 24 Piezas Porcelana,caja_grande,13.67,50.7,47.7,38.5,0.0931,Calle 22 #43-5,Fontibón Centro,4.675188,-74.129614,normal
+PKG-032,Freidora de Aire Digital 5L,caja_mediana,6.24,39.9,30.3,36.8,0.0445,Calle 45 #78-67,Teusaquillo / Galerías,4.638642,-74.069271,normal
+PKG-033,Medicamentos y Vitaminas,caja_pequena,0.33,18.6,15.1,12.8,0.0036,Av. La Esperanza #47-57,Salitre Oriental / Ciudad Salitre,4.660798,-74.091493,normal
+PKG-034,Impresora Multifuncional WiFi,caja_mediana,7.41,48.8,40.0,24.4,0.0476,Av. Primero de Mayo #90-39,Kennedy Central / Timiza,4.60866,-74.147748,normal
+PKG-035,Medicamentos y Vitaminas,caja_pequena,0.77,18.3,16.5,9.0,0.0027,Calle 72 #39-38,Engativá / Álamos,4.707073,-74.122818,normal
+PKG-036,Impresora Multifuncional WiFi,caja_mediana,7.99,47.4,38.6,28.3,0.0518,Av. Suba #37-67,Suba Pontevedra / La Colina,4.733594,-74.062921,normal
+PKG-037,Impresora Multifuncional WiFi,caja_mediana,9.68,48.0,39.7,23.8,0.0454,Calle 63 #61-80,Chapinero Alto,4.644978,-74.064511,alta
+PKG-038,Contrato Comercial y Póliza,sobre,0.32,32.4,21.0,3.1,0.0021,Av. Suba #97-15,Suba Pontevedra / La Colina,4.717303,-74.07768,alta
+PKG-039,Zapatos Deportivos y Ropa,caja_mediana,4.01,39.9,28.3,18.9,0.0213,Calle 45 #60-69,Teusaquillo / Galerías,4.652937,-74.082573,urgente
+PKG-040,Impresora Multifuncional WiFi,caja_mediana,8.76,47.8,38.5,28.6,0.0526,Av. Suba #58-35,Suba Pontevedra / La Colina,4.719176,-74.058084,alta
+PKG-041,Freidora de Aire Digital 5L,caja_mediana,5.95,33.9,33.5,37.7,0.0428,Calle 13 #11-19,Puente Aranda / Zona Industrial,4.62469,-74.111604,normal
+PKG-042,Vajilla Completa 24 Piezas Porcelana,caja_grande,16.24,50.6,44.1,40.4,0.0902,Calle 45 #50-76,Teusaquillo / Galerías,4.640394,-74.080863,alta
+PKG-043,Sobre Documentos Notariales,sobre,0.21,25.0,20.1,2.5,0.0013,Av. Primero de Mayo #69-71,Kennedy Central / Timiza,4.623897,-74.131397,alta
+PKG-044,Zapatos Deportivos y Ropa,caja_mediana,2.55,38.1,25.2,17.4,0.0167,Av. Suba #60-18,Suba Pontevedra / La Colina,4.72377,-74.07287,urgente
+PKG-045,Estufa de Gas 4 Puestos con Horno,electrodomestico,53.79,62.1,62.6,90.7,0.3526,Calle 100 #7-35,Chicó Norte / Usaquén,4.687858,-74.033329,normal
+PKG-046,Medicamentos y Vitaminas,caja_pequena,0.53,20.6,14.3,12.5,0.0037,Av. Suba #61-4,Suba Pontevedra / La Colina,4.729117,-74.077432,normal
+PKG-047,Tarjeta de Crédito y Token,sobre,0.08,15.3,14.8,1.0,0.0002,Calle 22 #80-21,Fontibón Centro,4.665621,-74.142582,normal
+PKG-048,Lavadora Carga Frontal 19 Kg,electrodomestico,76.77,69.3,70.2,105.7,0.5142,Calle 63 #21-41,Chapinero Alto,4.644195,-74.052855,normal
+PKG-049,Sobre Documentos Notariales,sobre,0.27,31.4,20.3,2.9,0.0018,Av. La Esperanza #14-40,Salitre Oriental / Ciudad Salitre,4.649562,-74.100198,alta
+PKG-050,Smartphone y Funda Protectora,caja_pequena,0.79,19.4,13.7,7.5,0.002,Av. Primero de Mayo #63-15,Kennedy Central / Timiza,4.614167,-74.149763,normal
+PKG-051,Monitor Gamer Curvo 34 Pulgadas,caja_grande,13.24,89.4,27.9,55.7,0.1389,Av. Suba #62-61,Suba Pontevedra / La Colina,4.709453,-74.060754,normal
+PKG-052,Freidora de Aire Digital 5L,caja_mediana,7.06,38.6,30.7,39.1,0.0463,Calle 22 #44-5,Fontibón Centro,4.669877,-74.136059,normal
+PKG-053,Impresora Multifuncional WiFi,caja_mediana,8.19,44.8,36.8,24.2,0.0399,Calle 45 #67-26,Teusaquillo / Galerías,4.644904,-74.067398,normal
+PKG-054,Juego de Herramientas Eléctricas,caja_grande,19.55,57.4,42.8,37.1,0.0911,Av. Suba #29-53,Suba Pontevedra / La Colina,4.715686,-74.084483,normal
+PKG-055,Cafetera Espresso y Pocillos,caja_mediana,4.42,34.4,26.1,36.0,0.0323,Av. Primero de Mayo #35-41,Kennedy Central / Timiza,4.615411,-74.149446,normal
+PKG-056,Smartphone y Funda Protectora,caja_pequena,0.56,21.0,15.8,8.8,0.0029,Carrera 7 #93-77,Centro Internacional / Santa Fe,4.608831,-74.063921,urgente
+PKG-057,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,28.83,156.0,19.6,97.3,0.2975,Av. Primero de Mayo #17-37,Kennedy Central / Timiza,4.605024,-74.159576,normal
+PKG-058,Tarjeta de Crédito y Token,sobre,0.09,19.7,13.2,1.8,0.0005,Calle 13 #61-63,Puente Aranda / Zona Industrial,4.622052,-74.119693,normal
+PKG-059,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.68,24.3,15.6,8.3,0.0031,Calle 100 #20-21,Chicó Norte / Usaquén,4.689752,-74.040574,alta
+PKG-060,Cafetera Espresso y Pocillos,caja_mediana,5.98,30.9,28.6,32.9,0.0291,Calle 63 #49-59,Chapinero Alto,4.659769,-74.060486,alta
+PKG-061,Cafetera Espresso y Pocillos,caja_mediana,5.98,32.4,27.7,32.9,0.0295,Av. Primero de Mayo #81-29,Kennedy Central / Timiza,4.620723,-74.131572,normal
+PKG-062,Contrato Comercial y Póliza,sobre,0.27,31.9,20.8,2.2,0.0015,Calle 45 #30-38,Teusaquillo / Galerías,4.647234,-74.075602,normal
+PKG-063,Nevera No Frost 380 Litros Inox,electrodomestico,78.75,74.5,70.5,183.1,0.9617,Calle 63 #15-71,Chapinero Alto,4.65653,-74.046327,normal
+PKG-064,Set de Cosméticos y Perfumería,caja_pequena,1.63,22.4,17.0,11.5,0.0044,Av. La Esperanza #57-17,Salitre Oriental / Ciudad Salitre,4.662226,-74.10077,normal
+PKG-065,Cafetera Espresso y Pocillos,caja_mediana,5.86,34.0,27.0,28.6,0.0263,Calle 72 #78-34,Engativá / Álamos,4.691196,-74.122039,normal
+PKG-066,Zapatos Deportivos y Ropa,caja_mediana,3.47,35.1,30.4,20.7,0.0221,Av. Primero de Mayo #61-68,Kennedy Central / Timiza,4.616135,-74.137107,normal
+PKG-067,Freidora de Aire Digital 5L,caja_mediana,7.49,35.5,36.5,39.8,0.0516,Calle 45 #86-15,Teusaquillo / Galerías,4.64175,-74.076833,alta
+PKG-068,Impresora Multifuncional WiFi,caja_mediana,9.12,44.3,41.6,28.5,0.0525,Calle 72 #33-43,Engativá / Álamos,4.706503,-74.121355,normal
+PKG-069,Vajilla Completa 24 Piezas Porcelana,caja_grande,16.95,50.0,48.7,39.6,0.0964,Calle 13 #81-58,Puente Aranda / Zona Industrial,4.621084,-74.107039,alta
+PKG-070,Medicamentos y Vitaminas,caja_pequena,0.68,21.6,14.6,12.2,0.0038,Av. La Esperanza #91-22,Salitre Oriental / Ciudad Salitre,4.647793,-74.090671,normal
+PKG-071,Sobre Documentos Notariales,sobre,0.22,26.6,23.0,1.2,0.0007,Calle 13 #64-39,Puente Aranda / Zona Industrial,4.638941,-74.103807,normal
+PKG-072,Freidora de Aire Digital 5L,caja_mediana,7.0,39.8,31.9,36.4,0.0462,Calle 72 #96-19,Engativá / Álamos,4.701508,-74.107344,alta
+PKG-073,Freidora de Aire Digital 5L,caja_mediana,5.52,38.3,32.1,32.0,0.0393,Calle 72 #20-59,Engativá / Álamos,4.711782,-74.109876,normal
+PKG-074,Monitor Gamer Curvo 34 Pulgadas,caja_grande,12.31,90.4,25.6,50.6,0.1171,Calle 22 #30-54,Fontibón Centro,4.668773,-74.129075,normal
+PKG-075,Lavadora Carga Frontal 19 Kg,electrodomestico,74.63,72.0,70.9,107.8,0.5503,Calle 72 #76-44,Engativá / Álamos,4.70486,-74.133889,alta
+PKG-076,Nevera No Frost 380 Litros Inox,electrodomestico,75.52,71.2,70.1,180.3,0.8999,Calle 63 #34-45,Chapinero Alto,4.65637,-74.061913,normal
+PKG-077,Vajilla Completa 24 Piezas Porcelana,caja_grande,17.11,58.5,48.6,38.8,0.1103,Calle 63 #70-6,Chapinero Alto,4.647917,-74.050626,normal
+PKG-078,Zapatos Deportivos y Ropa,caja_mediana,4.49,40.2,28.0,15.7,0.0177,Av. La Esperanza #22-40,Salitre Oriental / Ciudad Salitre,4.659576,-74.093186,alta
+PKG-079,Tarjeta de Crédito y Token,sobre,0.17,16.5,11.9,1.1,0.0002,Calle 22 #22-24,Fontibón Centro,4.675623,-74.133022,normal
+PKG-080,Vajilla Completa 24 Piezas Porcelana,caja_grande,16.1,55.0,45.8,37.3,0.094,Av. Primero de Mayo #60-38,Kennedy Central / Timiza,4.617861,-74.146213,normal
+PKG-081,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.81,21.7,17.9,10.6,0.0041,Calle 63 #26-51,Chapinero Alto,4.650608,-74.059998,alta
+PKG-082,Smartphone y Funda Protectora,caja_pequena,0.59,19.4,13.2,8.8,0.0023,Carrera 7 #36-3,Centro Internacional / Santa Fe,4.605439,-74.062549,normal
+PKG-083,Tarjeta de Crédito y Token,sobre,0.16,19.2,14.5,1.8,0.0005,Av. Primero de Mayo #82-26,Kennedy Central / Timiza,4.606443,-74.135942,normal
+PKG-084,Set de Cosméticos y Perfumería,caja_pequena,1.7,25.9,17.9,12.2,0.0057,Calle 63 #38-43,Chapinero Alto,4.654489,-74.050353,normal
+PKG-085,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.59,22.7,19.9,10.1,0.0046,Carrera 7 #62-39,Centro Internacional / Santa Fe,4.62327,-74.062543,normal
+PKG-086,Impresora Multifuncional WiFi,caja_mediana,8.11,42.6,40.3,23.8,0.0409,Calle 63 #72-48,Chapinero Alto,4.656908,-74.051512,normal
+PKG-087,Vajilla Completa 24 Piezas Porcelana,caja_grande,13.59,51.2,43.7,42.5,0.0951,Calle 100 #14-31,Chicó Norte / Usaquén,4.682865,-74.045474,normal
+PKG-088,Estufa de Gas 4 Puestos con Horno,electrodomestico,53.9,59.5,58.4,96.6,0.3357,Calle 22 #15-19,Fontibón Centro,4.683188,-74.140934,normal
+PKG-089,Tarjeta de Crédito y Token,sobre,0.2,15.6,11.2,1.5,0.0003,Av. La Esperanza #54-77,Salitre Oriental / Ciudad Salitre,4.653939,-74.105725,normal
+PKG-090,Set de Cosméticos y Perfumería,caja_pequena,1.45,27.0,19.7,14.7,0.0078,Calle 72 #57-58,Engativá / Álamos,4.698392,-74.114292,urgente
+PKG-091,Monitor Gamer Curvo 34 Pulgadas,caja_grande,14.89,88.7,29.2,53.2,0.1378,Calle 63 #59-13,Chapinero Alto,4.641514,-74.059482,normal
+PKG-092,Sobre Documentos Notariales,sobre,0.34,26.7,18.8,2.1,0.0011,Calle 100 #76-29,Chicó Norte / Usaquén,4.677058,-74.035871,alta
+PKG-093,Zapatos Deportivos y Ropa,caja_mediana,3.94,40.5,29.2,16.9,0.02,Calle 22 #33-24,Fontibón Centro,4.684681,-74.120374,normal
+PKG-094,Sobre Documentos Notariales,sobre,0.1,30.5,19.4,1.6,0.0009,Calle 45 #68-16,Teusaquillo / Galerías,4.634356,-74.083952,normal
+PKG-095,Lavadora Carga Frontal 19 Kg,electrodomestico,79.34,71.1,66.7,103.0,0.4885,Av. Suba #39-60,Suba Pontevedra / La Colina,4.73309,-74.083699,normal
+PKG-096,Sobre Documentos Notariales,sobre,0.4,30.9,20.6,1.2,0.0008,Calle 100 #42-79,Chicó Norte / Usaquén,4.696372,-74.043911,normal
+PKG-097,Set de Cosméticos y Perfumería,caja_pequena,1.42,25.5,20.3,11.9,0.0062,Av. La Esperanza #78-57,Salitre Oriental / Ciudad Salitre,4.65874,-74.107628,normal
+PKG-098,Smartphone y Funda Protectora,caja_pequena,0.76,18.9,13.8,6.9,0.0018,Calle 13 #94-14,Puente Aranda / Zona Industrial,4.626779,-74.108663,normal
+PKG-099,Impresora Multifuncional WiFi,caja_mediana,7.68,43.2,41.5,22.5,0.0403,Av. La Esperanza #96-49,Salitre Oriental / Ciudad Salitre,4.664131,-74.112669,alta
+PKG-100,Estufa de Gas 4 Puestos con Horno,electrodomestico,49.62,61.9,60.3,91.0,0.3397,Calle 100 #93-8,Chicó Norte / Usaquén,4.685608,-74.038366,urgente

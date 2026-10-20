@@ -1,0 +1,201 @@
+id_paquete,descripcion,tipo,peso_kg,alto_cm,ancho_cm,profundidad_cm,volumen_m3,latitud,longitud,direccion,barrio,hora_salida,hora_llegada,prioridad
+PKG-001,Smartphone y Funda Protectora,caja_pequena,0.77,7.0,12.6,18.4,0.0016,4.443666,-75.235546,Carrera 3 #76-56,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-002,Contrato Comercial y Póliza,sobre,0.27,2.8,22.8,33.0,0.0021,4.435013,-75.208385,Calle 60 #58-77,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-003,Sobre Documentos Notariales,sobre,0.31,1.7,18.9,31.7,0.001,4.435029,-75.227073,Carrera 5 #13-47,Cádiz / San Simón,08:00 AM,Pendiente,alta
+PKG-004,Freidora de Aire Digital 5L,caja_mediana,6.69,36.3,37.8,35.0,0.048,4.441968,-75.232706,Carrera 3 #80-48,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-005,Contrato Comercial y Póliza,sobre,0.4,3.3,24.9,34.0,0.0028,4.444798,-75.237199,Carrera 3 #59-48,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-006,Monitor Gamer Curvo 34 Pulgadas,caja_grande,13.02,53.6,27.5,85.7,0.1263,4.43435,-75.207124,Calle 60 #32-22,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-007,Freidora de Aire Digital 5L,caja_mediana,5.16,34.6,36.1,32.4,0.0405,4.422792,-75.172679,Av. Mirolindo #52-36,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-008,Impresora Multifuncional WiFi,caja_mediana,8.95,25.2,41.4,45.7,0.0477,4.430649,-75.210287,Calle 60 #72-70,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-009,Juego de Herramientas Eléctricas,caja_grande,17.99,32.2,48.0,60.1,0.0929,4.413364,-75.234199,Calle 25 Sur #15-21,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-010,Juego de Herramientas Eléctricas,caja_grande,14.64,33.8,48.0,60.3,0.0978,4.426566,-75.220367,Calle 25 Sur #2-16,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-011,Estufa de Gas 4 Puestos con Horno,electrodomestico,51.99,92.7,60.1,59.1,0.3293,4.433032,-75.208057,Av. Guabinal #93-35,La Macarena / Arkacentro,08:00 AM,Pendiente,urgente
+PKG-012,Auriculares Bluetooth Noise Cancelling,caja_pequena,1.14,11.5,16.5,23.2,0.0044,4.418961,-75.188332,Av. Mirolindo #98-22,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-013,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,31.99,99.9,18.9,158.6,0.2995,4.445868,-75.232932,Carrera 3 #31-9,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-014,Contrato Comercial y Póliza,sobre,0.42,3.4,24.9,31.7,0.0027,4.444258,-75.240083,Calle 10 #71-23,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-015,Juego de Herramientas Eléctricas,caja_grande,23.29,37.6,44.9,62.1,0.1048,4.43199,-75.205611,Calle 60 #48-58,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,alta
+PKG-016,Nevera No Frost 380 Litros Inox,electrodomestico,69.96,175.8,65.1,71.9,0.8229,4.448884,-75.247914,Calle 10 #91-9,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-017,Tarjeta de Crédito y Token,sobre,0.06,1.2,13.3,16.1,0.0003,4.42372,-75.183032,Av. Ferrocarril #74-75,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-018,Lavadora Carga Frontal 19 Kg,electrodomestico,72.28,99.0,68.6,70.5,0.4788,4.461873,-75.153418,Av. Ambalá #87-14,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-019,Impresora Multifuncional WiFi,caja_mediana,7.12,23.5,38.1,45.4,0.0406,4.445785,-75.245002,Calle 10 #10-58,Belén / Calambeo,08:00 AM,Pendiente,alta
+PKG-020,Estufa de Gas 4 Puestos con Horno,electrodomestico,42.66,98.0,63.9,64.8,0.4058,4.452264,-75.237816,Calle 10 #22-54,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-021,Medicamentos y Vitaminas,caja_pequena,0.93,9.0,12.0,18.3,0.002,4.470604,-75.152297,Av. Ambalá #37-56,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-022,Estufa de Gas 4 Puestos con Horno,electrodomestico,44.01,92.4,64.8,62.1,0.3718,4.454675,-75.195284,Calle 80 #8-8,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-023,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,27.57,104.6,18.6,156.9,0.3053,4.418711,-75.175795,Av. Mirolindo #31-53,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-024,Zapatos Deportivos y Ropa,caja_mediana,3.49,19.3,27.9,39.1,0.0211,4.419842,-75.21911,Calle 25 Sur #27-42,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-025,Vajilla Completa 24 Piezas Porcelana,caja_grande,16.03,38.0,43.2,57.5,0.0944,4.432653,-75.223417,Carrera 5 #73-14,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-026,Medicamentos y Vitaminas,caja_pequena,0.49,13.6,17.3,21.3,0.005,4.414651,-75.188214,Av. Mirolindo #70-40,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-027,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,32.68,100.5,25.5,156.0,0.3998,4.444903,-75.238355,Carrera 3 #14-72,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-028,Cafetera Espresso y Pocillos,caja_mediana,4.03,30.7,28.1,36.8,0.0317,4.419581,-75.230731,Calle 25 Sur #7-13,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-029,Freidora de Aire Digital 5L,caja_mediana,4.51,38.2,35.1,34.1,0.0457,4.443671,-75.235483,Carrera 3 #55-73,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-030,Contrato Comercial y Póliza,sobre,0.36,3.5,22.9,29.0,0.0023,4.433147,-75.224917,Carrera 5 #6-47,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-031,Zapatos Deportivos y Ropa,caja_mediana,2.88,18.9,31.1,41.8,0.0246,4.450495,-75.236891,Calle 10 #31-22,Belén / Calambeo,08:00 AM,Pendiente,urgente
+PKG-032,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.52,10.9,16.7,24.7,0.0045,4.468242,-75.150719,Av. Ambalá #32-36,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-033,Smartphone y Funda Protectora,caja_pequena,0.84,9.4,12.9,21.3,0.0026,4.461746,-75.161896,Av. Ambalá #30-30,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-034,Medicamentos y Vitaminas,caja_pequena,0.53,13.2,17.8,17.7,0.0042,4.465188,-75.160006,Av. Ambalá #69-44,Santa Ana / El Salado,08:00 AM,Pendiente,alta
+PKG-035,Smartphone y Funda Protectora,caja_pequena,0.49,9.9,13.1,18.4,0.0024,4.437346,-75.207986,Av. Guabinal #41-57,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-036,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,29.85,100.8,20.0,162.1,0.3268,4.443017,-75.236893,Calle 10 #69-27,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-037,Contrato Comercial y Póliza,sobre,0.39,3.0,20.6,34.3,0.0021,4.428593,-75.18733,Av. Ferrocarril #42-53,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-038,Estufa de Gas 4 Puestos con Horno,electrodomestico,44.49,95.3,60.7,63.2,0.3656,4.433566,-75.222309,Carrera 5 #52-72,Cádiz / San Simón,08:00 AM,Pendiente,alta
+PKG-039,Cafetera Espresso y Pocillos,caja_mediana,4.03,34.3,27.6,32.6,0.0309,4.437418,-75.208568,Av. Guabinal #66-62,La Macarena / Arkacentro,08:00 AM,Pendiente,alta
+PKG-040,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.7,10.7,18.1,20.5,0.004,4.45252,-75.245182,Calle 10 #40-30,Belén / Calambeo,08:00 AM,Pendiente,alta
+PKG-041,Set de Cosméticos y Perfumería,caja_pequena,0.85,14.9,19.7,26.6,0.0078,4.441099,-75.232139,Carrera 3 #74-26,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-042,Vajilla Completa 24 Piezas Porcelana,caja_grande,14.4,36.5,46.9,58.9,0.1008,4.459767,-75.192947,Calle 80 #55-30,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-043,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,26.5,97.5,24.8,159.6,0.3859,4.458823,-75.196651,Calle 80 #72-78,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-044,Nevera No Frost 380 Litros Inox,electrodomestico,81.3,186.6,68.0,74.3,0.9428,4.418689,-75.232294,Calle 25 Sur #61-59,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-045,Zapatos Deportivos y Ropa,caja_mediana,3.91,18.6,29.4,36.9,0.0202,4.433775,-75.212857,Av. Guabinal #35-44,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-046,Estufa de Gas 4 Puestos con Horno,electrodomestico,43.8,91.9,62.9,62.9,0.3636,4.443642,-75.243109,Calle 10 #70-61,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-047,Medicamentos y Vitaminas,caja_pequena,0.57,12.6,17.7,16.1,0.0036,4.469732,-75.156486,Av. Ambalá #62-2,Santa Ana / El Salado,08:00 AM,Pendiente,alta
+PKG-048,Cafetera Espresso y Pocillos,caja_mediana,5.63,35.6,26.5,36.0,0.034,4.463377,-75.155935,Av. Ambalá #29-64,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-049,Juego de Herramientas Eléctricas,caja_grande,14.29,33.4,44.8,59.0,0.0883,4.448641,-75.200054,Calle 80 #17-70,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-050,Vajilla Completa 24 Piezas Porcelana,caja_grande,15.39,35.3,46.4,51.4,0.0842,4.418925,-75.234145,Calle 25 Sur #49-43,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-051,Impresora Multifuncional WiFi,caja_mediana,9.43,25.0,40.3,48.7,0.0491,4.42528,-75.19669,Av. Ferrocarril #3-71,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-052,Monitor Gamer Curvo 34 Pulgadas,caja_grande,12.9,54.2,27.2,92.5,0.1364,4.437496,-75.210807,Calle 60 #3-21,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-053,Lavadora Carga Frontal 19 Kg,electrodomestico,76.77,100.2,70.2,72.6,0.5107,4.444678,-75.240713,Calle 10 #96-16,Belén / Calambeo,08:00 AM,Pendiente,alta
+PKG-054,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.58,8.1,16.6,23.4,0.0031,4.442582,-75.211637,Av. Guabinal #92-27,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-055,Zapatos Deportivos y Ropa,caja_mediana,3.74,17.1,29.8,40.6,0.0207,4.450962,-75.241209,Calle 10 #6-46,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-056,Monitor Gamer Curvo 34 Pulgadas,caja_grande,12.04,50.7,28.8,93.2,0.1361,4.444055,-75.236471,Calle 10 #82-60,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-057,Juego de Herramientas Eléctricas,caja_grande,21.34,39.7,40.7,63.1,0.102,4.436844,-75.223165,Carrera 5 #56-77,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-058,Zapatos Deportivos y Ropa,caja_mediana,2.7,18.2,30.3,39.0,0.0215,4.449682,-75.243963,Calle 10 #64-43,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-059,Medicamentos y Vitaminas,caja_pequena,0.86,10.0,17.3,20.2,0.0035,4.425591,-75.197838,Av. Ferrocarril #25-12,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-060,Juego de Herramientas Eléctricas,caja_grande,19.55,32.4,42.8,62.1,0.0861,4.453171,-75.207707,Calle 80 #38-30,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-061,Zapatos Deportivos y Ropa,caja_mediana,3.66,17.6,28.9,37.4,0.019,4.442966,-75.209946,Av. Guabinal #46-60,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-062,Freidora de Aire Digital 5L,caja_mediana,4.86,33.5,31.0,36.3,0.0377,4.435622,-75.210963,Calle 60 #28-63,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-063,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,28.83,96.0,19.6,157.3,0.296,4.414692,-75.234759,Calle 25 Sur #69-18,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-064,Tarjeta de Crédito y Token,sobre,0.09,1.9,13.2,18.8,0.0005,4.409847,-75.191706,Av. Mirolindo #37-62,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-065,Impresora Multifuncional WiFi,caja_mediana,10.34,24.0,41.0,42.9,0.0422,4.432588,-75.223083,Carrera 5 #74-8,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-066,Cafetera Espresso y Pocillos,caja_mediana,5.98,28.9,28.6,34.9,0.0288,4.450907,-75.245292,Calle 10 #67-50,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-067,Nevera No Frost 380 Litros Inox,electrodomestico,82.2,187.9,67.1,72.3,0.9116,4.439096,-75.207859,Av. Guabinal #98-28,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-068,Freidora de Aire Digital 5L,caja_mediana,4.97,33.4,30.6,32.0,0.0327,4.447505,-75.240874,Calle 10 #38-6,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-069,Cafetera Espresso y Pocillos,caja_mediana,3.68,29.9,25.6,36.3,0.0278,4.455437,-75.194334,Calle 80 #26-56,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-070,Zapatos Deportivos y Ropa,caja_mediana,4.27,20.8,25.5,36.2,0.0192,4.434769,-75.22051,Carrera 5 #73-38,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-071,Nevera No Frost 380 Litros Inox,electrodomestico,78.99,187.3,68.5,71.5,0.9173,4.433804,-75.215562,Av. Guabinal #56-43,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-072,Sobre Documentos Notariales,sobre,0.17,2.3,23.2,29.1,0.0016,4.443207,-75.238823,Calle 10 #35-75,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-073,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.86,9.8,16.4,25.0,0.004,4.452974,-75.194158,Calle 80 #12-62,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-074,Impresora Multifuncional WiFi,caja_mediana,9.02,28.9,37.3,47.5,0.0512,4.425747,-75.182877,Av. Ferrocarril #98-72,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-075,Contrato Comercial y Póliza,sobre,0.28,1.3,23.9,34.1,0.0011,4.432724,-75.197982,Av. Ferrocarril #70-61,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-076,Medicamentos y Vitaminas,caja_pequena,0.55,12.5,15.8,20.6,0.0041,4.411664,-75.178819,Av. Mirolindo #37-58,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,alta
+PKG-077,Lavadora Carga Frontal 19 Kg,electrodomestico,70.35,104.3,70.8,72.3,0.5339,4.446108,-75.247836,Calle 10 #53-13,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-078,Smartphone y Funda Protectora,caja_pequena,0.87,8.6,12.6,21.7,0.0024,4.45067,-75.196008,Calle 80 #54-63,El Vergel / Ambalá Norte,08:00 AM,Pendiente,urgente
+PKG-079,Zapatos Deportivos y Ropa,caja_mediana,3.38,17.7,31.5,38.6,0.0215,4.460069,-75.193312,Calle 80 #36-55,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-080,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,34.21,97.8,20.4,160.9,0.321,4.442989,-75.210614,Av. Guabinal #20-59,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-081,Monitor Gamer Curvo 34 Pulgadas,caja_grande,12.31,52.3,25.6,88.2,0.1181,4.424452,-75.18684,Av. Ferrocarril #74-51,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-082,Juego de Herramientas Eléctricas,caja_grande,17.18,34.7,47.1,58.8,0.0961,4.445896,-75.233076,Carrera 3 #84-21,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-083,Tarjeta de Crédito y Token,sobre,0.13,1.6,14.3,19.4,0.0004,4.435963,-75.22274,Carrera 5 #59-3,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-084,Juego de Herramientas Eléctricas,caja_grande,14.75,37.8,40.7,61.2,0.0942,4.435577,-75.227197,Carrera 5 #43-70,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-085,Impresora Multifuncional WiFi,caja_mediana,9.93,22.3,35.5,47.0,0.0372,4.460735,-75.191044,Calle 80 #96-13,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-086,Smartphone y Funda Protectora,caja_pequena,0.62,8.8,15.6,18.2,0.0025,4.450961,-75.24448,Calle 10 #48-57,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-087,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,31.66,102.9,19.4,155.8,0.311,4.469546,-75.155606,Av. Ambalá #31-65,Santa Ana / El Salado,08:00 AM,Pendiente,alta
+PKG-088,Set de Cosméticos y Perfumería,caja_pequena,1.26,11.3,17.5,22.1,0.0044,4.436046,-75.203087,Calle 60 #87-71,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-089,Nevera No Frost 380 Litros Inox,electrodomestico,84.75,178.9,71.7,72.8,0.9338,4.427939,-75.193166,Av. Ferrocarril #50-63,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-090,Vajilla Completa 24 Piezas Porcelana,caja_grande,14.15,38.0,47.0,50.2,0.0897,4.424451,-75.228271,Calle 25 Sur #2-74,El Refugio / Ricaurte,08:00 AM,Pendiente,alta
+PKG-091,Tarjeta de Crédito y Token,sobre,0.16,1.8,14.5,18.9,0.0005,4.415452,-75.221367,Calle 25 Sur #29-26,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-092,Set de Cosméticos y Perfumería,caja_pequena,1.7,13.2,17.9,24.6,0.0058,4.448796,-75.239212,Calle 10 #12-39,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-093,Juego de Herramientas Eléctricas,caja_grande,16.01,37.9,46.8,58.7,0.1041,4.436516,-75.225275,Carrera 5 #22-34,Cádiz / San Simón,08:00 AM,Pendiente,alta
+PKG-094,Lavadora Carga Frontal 19 Kg,electrodomestico,78.96,101.4,66.7,73.8,0.4991,4.434408,-75.205368,Av. Guabinal #87-52,La Macarena / Arkacentro,08:00 AM,Pendiente,urgente
+PKG-095,Estufa de Gas 4 Puestos con Horno,electrodomestico,43.17,93.2,59.9,58.9,0.3288,4.426792,-75.186016,Av. Ferrocarril #34-76,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-096,Monitor Gamer Curvo 34 Pulgadas,caja_grande,13.05,51.8,27.0,94.4,0.132,4.44628,-75.240679,Calle 10 #83-10,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-097,Nevera No Frost 380 Litros Inox,electrodomestico,77.98,176.5,65.3,68.3,0.7872,4.442959,-75.214723,Av. Guabinal #31-70,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-098,Nevera No Frost 380 Litros Inox,electrodomestico,78.41,184.7,71.6,70.9,0.9376,4.431649,-75.195528,Av. Ferrocarril #54-14,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,alta
+PKG-099,Juego de Herramientas Eléctricas,caja_grande,14.33,33.7,42.4,64.5,0.0922,4.441555,-75.214907,Av. Guabinal #88-49,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-100,Monitor Gamer Curvo 34 Pulgadas,caja_grande,11.39,49.5,23.0,93.5,0.1064,4.441092,-75.234372,Carrera 3 #83-78,Centro / La Pola,08:00 AM,Pendiente,urgente
+PKG-101,Tarjeta de Crédito y Token,sobre,0.09,1.1,12.8,15.3,0.0002,4.431947,-75.194685,Av. Ferrocarril #28-31,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-102,Set de Cosméticos y Perfumería,caja_pequena,0.8,14.3,16.9,22.8,0.0055,4.41576,-75.232034,Calle 25 Sur #85-5,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-103,Monitor Gamer Curvo 34 Pulgadas,caja_grande,12.53,48.1,24.1,86.3,0.1,4.43221,-75.21175,Calle 60 #9-62,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-104,Monitor Gamer Curvo 34 Pulgadas,caja_grande,12.56,51.6,23.8,91.2,0.112,4.42109,-75.17019,Av. Mirolindo #85-68,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-105,Sobre Documentos Notariales,sobre,0.4,2.7,20.6,25.8,0.0014,4.443412,-75.236564,Carrera 3 #11-43,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-106,Contrato Comercial y Póliza,sobre,0.28,2.9,22.7,30.3,0.002,4.440952,-75.222694,Carrera 5 #59-66,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-107,Smartphone y Funda Protectora,caja_pequena,0.83,8.6,15.1,20.9,0.0027,4.44515,-75.242581,Calle 10 #30-54,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-108,Nevera No Frost 380 Litros Inox,electrodomestico,73.32,176.2,68.0,72.7,0.8711,4.460112,-75.164947,Av. Ambalá #61-10,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-109,Contrato Comercial y Póliza,sobre,0.33,3.2,21.9,28.9,0.002,4.4436,-75.236521,Calle 10 #72-44,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-110,Juego de Herramientas Eléctricas,caja_grande,22.74,39.4,42.2,64.2,0.1067,4.422669,-75.193398,Av. Ferrocarril #40-47,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-111,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,27.55,99.8,24.8,158.5,0.3923,4.433563,-75.211736,Calle 60 #36-75,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-112,Juego de Herramientas Eléctricas,caja_grande,23.75,38.2,44.1,61.4,0.1034,4.408473,-75.169702,Av. Mirolindo #89-36,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-113,Freidora de Aire Digital 5L,caja_mediana,7.26,34.8,31.5,33.1,0.0363,4.439573,-75.215235,Av. Guabinal #95-5,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-114,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,29.76,99.5,19.3,158.1,0.3036,4.431244,-75.202645,Calle 60 #77-12,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,alta
+PKG-115,Set de Cosméticos y Perfumería,caja_pequena,1.55,10.2,16.5,24.7,0.0042,4.435816,-75.221929,Carrera 5 #54-36,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-116,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,29.45,96.1,23.4,160.9,0.3618,4.448269,-75.244299,Calle 10 #29-52,Belén / Calambeo,08:00 AM,Pendiente,urgente
+PKG-117,Tarjeta de Crédito y Token,sobre,0.08,1.9,13.8,18.8,0.0005,4.439605,-75.2398,Carrera 3 #64-57,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-118,Vajilla Completa 24 Piezas Porcelana,caja_grande,16.22,40.0,48.3,58.1,0.1122,4.409297,-75.171318,Av. Mirolindo #6-57,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-119,Contrato Comercial y Póliza,sobre,0.37,2.7,23.5,30.9,0.002,4.423497,-75.197666,Av. Ferrocarril #42-23,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,alta
+PKG-120,Nevera No Frost 380 Litros Inox,electrodomestico,66.76,186.0,66.7,72.1,0.8945,4.428812,-75.191668,Av. Ferrocarril #40-45,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-121,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.86,8.5,17.5,24.5,0.0036,4.446494,-75.239271,Calle 10 #83-20,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-122,Set de Cosméticos y Perfumería,caja_pequena,1.0,13.0,20.6,25.9,0.0069,4.434771,-75.207499,Av. Guabinal #64-61,La Macarena / Arkacentro,08:00 AM,Pendiente,alta
+PKG-123,Nevera No Frost 380 Litros Inox,electrodomestico,77.86,187.8,67.3,74.8,0.9454,4.416742,-75.227524,Calle 25 Sur #61-58,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-124,Freidora de Aire Digital 5L,caja_mediana,4.67,36.1,32.5,35.6,0.0418,4.412853,-75.220861,Calle 25 Sur #10-13,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-125,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,30.63,100.5,24.3,164.0,0.4005,4.461545,-75.151804,Av. Ambalá #84-26,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-126,Lavadora Carga Frontal 19 Kg,electrodomestico,71.81,98.6,66.6,73.4,0.482,4.414182,-75.174856,Av. Mirolindo #65-24,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-127,Nevera No Frost 380 Litros Inox,electrodomestico,75.48,182.9,67.5,74.4,0.9185,4.452199,-75.194834,Calle 80 #87-78,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-128,Impresora Multifuncional WiFi,caja_mediana,7.48,26.5,37.7,44.0,0.044,4.451516,-75.236427,Calle 10 #78-21,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-129,Set de Cosméticos y Perfumería,caja_pequena,1.11,13.3,20.0,22.8,0.0061,4.431215,-75.196644,Av. Ferrocarril #72-50,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-130,Impresora Multifuncional WiFi,caja_mediana,9.02,28.6,40.2,47.5,0.0546,4.436738,-75.22154,Carrera 5 #55-67,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-131,Monitor Gamer Curvo 34 Pulgadas,caja_grande,10.08,49.7,29.6,89.9,0.1323,4.435265,-75.214487,Av. Guabinal #10-39,La Macarena / Arkacentro,08:00 AM,Pendiente,alta
+PKG-132,Smartphone y Funda Protectora,caja_pequena,0.79,9.3,15.5,18.2,0.0026,4.414062,-75.173609,Av. Mirolindo #17-78,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-133,Auriculares Bluetooth Noise Cancelling,caja_pequena,1.08,11.1,19.0,20.8,0.0044,4.435939,-75.223891,Carrera 5 #87-32,Cádiz / San Simón,08:00 AM,Pendiente,urgente
+PKG-134,Cafetera Espresso y Pocillos,caja_mediana,4.09,29.9,29.8,36.3,0.0323,4.460464,-75.204702,Calle 80 #87-75,El Vergel / Ambalá Norte,08:00 AM,Pendiente,urgente
+PKG-135,Nevera No Frost 380 Litros Inox,electrodomestico,80.56,181.5,67.9,69.1,0.8516,4.434997,-75.209349,Av. Guabinal #33-8,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-136,Monitor Gamer Curvo 34 Pulgadas,caja_grande,14.61,53.7,26.1,86.2,0.1208,4.40951,-75.188153,Av. Mirolindo #58-67,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-137,Juego de Herramientas Eléctricas,caja_grande,23.46,32.2,42.5,58.5,0.0801,4.443267,-75.247361,Calle 10 #65-49,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-138,Contrato Comercial y Póliza,sobre,0.27,2.0,20.5,33.0,0.0014,4.426359,-75.195663,Av. Ferrocarril #5-38,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,alta
+PKG-139,Lavadora Carga Frontal 19 Kg,electrodomestico,79.11,102.7,69.7,73.4,0.5254,4.432171,-75.225843,Carrera 5 #20-72,Cádiz / San Simón,08:00 AM,Pendiente,alta
+PKG-140,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,27.11,97.9,20.4,155.5,0.3106,4.460977,-75.152122,Av. Ambalá #59-10,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-141,Lavadora Carga Frontal 19 Kg,electrodomestico,76.43,104.3,69.5,72.3,0.5241,4.416369,-75.234973,Calle 25 Sur #46-32,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-142,Auriculares Bluetooth Noise Cancelling,caja_pequena,0.87,9.4,19.8,22.7,0.0042,4.450864,-75.241909,Calle 10 #3-51,Belén / Calambeo,08:00 AM,Pendiente,alta
+PKG-143,Tarjeta de Crédito y Token,sobre,0.2,1.3,10.1,18.9,0.0002,4.459551,-75.153341,Av. Ambalá #81-15,Santa Ana / El Salado,08:00 AM,Pendiente,alta
+PKG-144,Impresora Multifuncional WiFi,caja_mediana,6.2,26.4,40.7,43.4,0.0466,4.439012,-75.223354,Carrera 5 #90-63,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-145,Set de Cosméticos y Perfumería,caja_pequena,1.52,14.7,16.2,23.2,0.0055,4.450911,-75.237371,Calle 10 #41-41,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-146,Estufa de Gas 4 Puestos con Horno,electrodomestico,45.29,96.0,59.3,60.5,0.3444,4.458493,-75.193281,Calle 80 #43-36,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-147,Monitor Gamer Curvo 34 Pulgadas,caja_grande,14.34,53.9,29.2,88.9,0.1399,4.471501,-75.158076,Av. Ambalá #64-49,Santa Ana / El Salado,08:00 AM,Pendiente,alta
+PKG-148,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,34.01,102.3,18.6,161.0,0.3063,4.441223,-75.21,Av. Guabinal #42-15,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-149,Cafetera Espresso y Pocillos,caja_mediana,4.61,33.7,25.0,33.6,0.0283,4.437471,-75.208005,Av. Guabinal #46-80,La Macarena / Arkacentro,08:00 AM,Pendiente,urgente
+PKG-150,Freidora de Aire Digital 5L,caja_mediana,4.73,37.1,32.9,38.4,0.0469,4.443115,-75.231472,Carrera 3 #19-79,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-151,Nevera No Frost 380 Litros Inox,electrodomestico,67.52,178.1,69.5,70.5,0.8726,4.445545,-75.240676,Carrera 3 #20-59,Centro / La Pola,08:00 AM,Pendiente,alta
+PKG-152,Monitor Gamer Curvo 34 Pulgadas,caja_grande,13.58,52.6,26.2,89.0,0.1227,4.456393,-75.203757,Calle 80 #15-5,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-153,Lavadora Carga Frontal 19 Kg,electrodomestico,74.64,103.6,67.6,69.6,0.4874,4.416033,-75.168087,Av. Mirolindo #37-64,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-154,Set de Cosméticos y Perfumería,caja_pequena,1.25,14.5,18.7,22.5,0.0061,4.449819,-75.237854,Calle 10 #41-46,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-155,Estufa de Gas 4 Puestos con Horno,electrodomestico,45.77,92.4,59.1,63.0,0.344,4.420604,-75.187822,Av. Mirolindo #47-67,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-156,Medicamentos y Vitaminas,caja_pequena,0.47,11.0,14.2,19.4,0.003,4.436207,-75.21817,Carrera 5 #17-80,Cádiz / San Simón,08:00 AM,Pendiente,alta
+PKG-157,Contrato Comercial y Póliza,sobre,0.32,3.2,22.4,30.9,0.0022,4.437094,-75.209676,Av. Guabinal #17-42,La Macarena / Arkacentro,08:00 AM,Pendiente,normal
+PKG-158,Nevera No Frost 380 Litros Inox,electrodomestico,78.6,179.5,71.1,73.5,0.938,4.456237,-75.204907,Calle 80 #17-57,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-159,Tarjeta de Crédito y Token,sobre,0.13,1.3,10.8,19.7,0.0003,4.445255,-75.23663,Calle 10 #67-38,Belén / Calambeo,08:00 AM,Pendiente,alta
+PKG-160,Freidora de Aire Digital 5L,caja_mediana,6.41,36.4,31.0,34.4,0.0388,4.433335,-75.207472,Calle 60 #22-77,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,alta
+PKG-161,Set de Cosméticos y Perfumería,caja_pequena,1.46,13.6,19.6,27.1,0.0072,4.437073,-75.219748,Carrera 5 #4-12,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-162,Freidora de Aire Digital 5L,caja_mediana,6.8,35.3,35.1,36.0,0.0446,4.434272,-75.209814,Calle 60 #39-63,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-163,Vajilla Completa 24 Piezas Porcelana,caja_grande,14.72,41.9,41.6,54.2,0.0945,4.437644,-75.212258,Av. Guabinal #19-42,La Macarena / Arkacentro,08:00 AM,Pendiente,alta
+PKG-164,Impresora Multifuncional WiFi,caja_mediana,10.39,23.0,37.6,46.5,0.0402,4.426149,-75.190536,Av. Ferrocarril #35-59,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-165,Smartphone y Funda Protectora,caja_pequena,0.55,7.5,14.5,19.0,0.0021,4.444788,-75.239403,Carrera 3 #42-75,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-166,Medicamentos y Vitaminas,caja_pequena,0.65,11.1,15.0,17.9,0.003,4.432209,-75.218548,Carrera 5 #65-60,Cádiz / San Simón,08:00 AM,Pendiente,urgente
+PKG-167,Medicamentos y Vitaminas,caja_pequena,0.55,8.3,15.0,21.3,0.0027,4.421814,-75.227,Calle 25 Sur #69-3,El Refugio / Ricaurte,08:00 AM,Pendiente,alta
+PKG-168,Juego de Herramientas Eléctricas,caja_grande,22.82,37.3,45.6,58.7,0.0998,4.435605,-75.222297,Carrera 5 #25-48,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-169,Contrato Comercial y Póliza,sobre,0.35,3.3,21.4,34.9,0.0025,4.465928,-75.165624,Av. Ambalá #13-52,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-170,Impresora Multifuncional WiFi,caja_mediana,10.23,28.0,36.4,46.1,0.047,4.417001,-75.190913,Av. Mirolindo #18-44,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,alta
+PKG-171,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,27.49,103.9,19.1,164.3,0.3261,4.451096,-75.20132,Calle 80 #79-40,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-172,Televisor Smart TV OLED 65 Pulgadas,electrodomestico,31.32,102.1,20.4,163.2,0.3399,4.41463,-75.175829,Av. Mirolindo #54-76,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-173,Sobre Documentos Notariales,sobre,0.24,2.9,22.7,30.4,0.002,4.420665,-75.222736,Calle 25 Sur #75-63,El Refugio / Ricaurte,08:00 AM,Pendiente,normal
+PKG-174,Vajilla Completa 24 Piezas Porcelana,caja_grande,16.93,37.4,45.7,57.0,0.0974,4.433717,-75.22359,Carrera 5 #54-21,Cádiz / San Simón,08:00 AM,Pendiente,normal
+PKG-175,Medicamentos y Vitaminas,caja_pequena,0.65,11.7,14.8,21.1,0.0037,4.466821,-75.153884,Av. Ambalá #67-28,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-176,Lavadora Carga Frontal 19 Kg,electrodomestico,74.52,107.6,68.8,71.2,0.5271,4.417833,-75.175779,Av. Mirolindo #93-35,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-177,Medicamentos y Vitaminas,caja_pequena,0.5,9.8,17.6,21.9,0.0038,4.435712,-75.205246,Calle 60 #89-64,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-178,Monitor Gamer Curvo 34 Pulgadas,caja_grande,14.6,54.4,24.2,86.2,0.1135,4.420179,-75.182887,Av. Mirolindo #51-46,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,urgente
+PKG-179,Set de Cosméticos y Perfumería,caja_pequena,0.84,14.8,16.5,27.5,0.0067,4.43956,-75.207779,Av. Guabinal #28-27,La Macarena / Arkacentro,08:00 AM,Pendiente,alta
+PKG-180,Freidora de Aire Digital 5L,caja_mediana,6.59,33.1,34.9,36.7,0.0424,4.412364,-75.175924,Av. Mirolindo #68-30,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-181,Tarjeta de Crédito y Token,sobre,0.11,1.7,10.5,18.9,0.0003,4.443052,-75.241396,Calle 10 #21-54,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-182,Lavadora Carga Frontal 19 Kg,electrodomestico,77.81,105.6,67.7,69.7,0.4983,4.446947,-75.194932,Calle 80 #84-75,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-183,Tarjeta de Crédito y Token,sobre,0.11,1.8,14.7,15.2,0.0004,4.439526,-75.22012,Carrera 5 #24-39,Cádiz / San Simón,08:00 AM,Pendiente,alta
+PKG-184,Sobre Documentos Notariales,sobre,0.27,1.2,23.9,27.0,0.0008,4.442891,-75.210024,Av. Guabinal #64-19,La Macarena / Arkacentro,08:00 AM,Pendiente,alta
+PKG-185,Nevera No Frost 380 Litros Inox,electrodomestico,68.86,176.5,66.1,71.2,0.8307,4.435573,-75.213952,Av. Guabinal #95-45,La Macarena / Arkacentro,08:00 AM,Pendiente,alta
+PKG-186,Medicamentos y Vitaminas,caja_pequena,0.73,11.8,14.4,18.6,0.0032,4.434951,-75.223992,Carrera 5 #13-25,Cádiz / San Simón,08:00 AM,Pendiente,urgente
+PKG-187,Lavadora Carga Frontal 19 Kg,electrodomestico,81.23,98.1,68.3,70.7,0.4737,4.425471,-75.192726,Av. Ferrocarril #75-75,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,normal
+PKG-188,Monitor Gamer Curvo 34 Pulgadas,caja_grande,9.37,48.9,24.5,89.1,0.1067,4.433025,-75.203154,Calle 60 #91-41,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-189,Cafetera Espresso y Pocillos,caja_mediana,5.04,29.8,24.8,31.2,0.0231,4.431721,-75.188308,Av. Ferrocarril #54-72,El Jordán (Etapas 1 a 9),08:00 AM,Pendiente,alta
+PKG-190,Estufa de Gas 4 Puestos con Horno,electrodomestico,51.9,95.4,62.2,63.5,0.3768,4.433255,-75.20719,Calle 60 #47-11,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,alta
+PKG-191,Smartphone y Funda Protectora,caja_pequena,0.81,9.6,12.8,20.1,0.0025,4.438481,-75.232455,Carrera 3 #57-16,Centro / La Pola,08:00 AM,Pendiente,normal
+PKG-192,Lavadora Carga Frontal 19 Kg,electrodomestico,80.79,102.5,66.3,68.8,0.4675,4.447154,-75.241233,Calle 10 #72-61,Belén / Calambeo,08:00 AM,Pendiente,normal
+PKG-193,Cafetera Espresso y Pocillos,caja_mediana,4.49,34.5,28.5,34.6,0.034,4.437408,-75.237555,Carrera 3 #9-71,Centro / La Pola,08:00 AM,Pendiente,urgente
+PKG-194,Contrato Comercial y Póliza,sobre,0.21,2.2,23.8,33.4,0.0017,4.461653,-75.19702,Calle 80 #54-49,El Vergel / Ambalá Norte,08:00 AM,Pendiente,urgente
+PKG-195,Vajilla Completa 24 Piezas Porcelana,caja_grande,17.22,44.1,43.8,56.8,0.1097,4.456589,-75.198832,Calle 80 #84-46,El Vergel / Ambalá Norte,08:00 AM,Pendiente,normal
+PKG-196,Estufa de Gas 4 Puestos con Horno,electrodomestico,48.87,95.8,59.6,58.0,0.3312,4.453432,-75.162033,Av. Ambalá #87-71,Santa Ana / El Salado,08:00 AM,Pendiente,normal
+PKG-197,Vajilla Completa 24 Piezas Porcelana,caja_grande,13.49,38.5,42.8,59.4,0.0979,4.43525,-75.211759,Calle 60 #85-55,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-198,Sobre Documentos Notariales,sobre,0.16,1.2,18.2,29.2,0.0006,4.435033,-75.212465,Calle 60 #95-7,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
+PKG-199,Zapatos Deportivos y Ropa,caja_mediana,2.54,21.0,25.4,38.5,0.0205,4.413207,-75.172421,Av. Mirolindo #94-75,Picaleña / Zona Industrial El Papayo,08:00 AM,Pendiente,normal
+PKG-200,Impresora Multifuncional WiFi,caja_mediana,7.36,23.1,39.6,43.8,0.0401,4.431005,-75.212329,Calle 60 #76-24,Piedra Pintada / Santa Helena,08:00 AM,Pendiente,normal
